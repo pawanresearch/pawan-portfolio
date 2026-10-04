@@ -6,7 +6,7 @@ A lightweight, responsive personal website for GitHub Pages. Plain HTML, CSS, an
 
 - `index.html`: introduction, research overview, movie preview, and academic background
 - `research.html`: research themes, video, credited publication figures
-- `publications.html`: selected verified journal articles, a review/feature article, and separately labelled preprints
+- `publications.html`: selected verified journal articles, a review/feature article, separately labelled preprints, and the doctoral thesis
 - `conferences.html`: selected meetings, schools, and a poster, with official source and photograph links
 - `resume.html`: appointment, education, skills, publications, and selected conferences and workshop travel support, with a print/save-as-PDF control
 

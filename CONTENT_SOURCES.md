@@ -75,3 +75,16 @@ The author explicitly confirmed attendance at both events after reviewing their 
 
 - *MBI–MPG Conference 2025: Mechanobiology in Time and Space*, 9–12 September 2025, Shaw Foundation Alumni House, National University of Singapore, Singapore. Official event details: https://www.mbi.nus.edu.sg/events/mbiconf2025/ . The conference dates exclude the preceding welcome reception.
 - *Global Conference on Gerophysics*, 5–6 March 2025, Paradox Singapore Merchant Court, Singapore. Official event page: https://medicine.nus.edu.sg/trp/healthy-longevity/events/global-conference-on-gerophysics/ ; official date/venue listing: https://coe.nuhs.edu.sg/centre-for-healthy-longevity/events .
+
+## Doctoral thesis
+
+- Permanent official IIT(BHU) repository URI: https://idr-sdlib.iitbhu.ac.in/handle/123456789/24198
+- Repository item: https://idr-sdlib.iitbhu.ac.in/items/0c2268eb-91b1-40d2-822b-9d6e0dcd74ba
+- Official title-page PDF: https://idr-sdlib.iitbhu.ac.in/server/api/core/bitstreams/09f268e5-dcb3-4344-b35b-0621a36f73f5/content
+- Title verified from the repository's downloadable title-page PDF: *Unveiling Phases and Phase Transitions in Inhomogeneous Active Systems*
+- Author: Pawan Kumar Mishra; Department of Physics, Indian Institute of Technology (Banaras Hindu University), Varanasi; supervisor: Shradha Mishra
+- Title-page year of submission: 2024. The repository supplies public PDFs for the title, preliminary matter, contents, abstract, chapters 1–6, annexures, and recommendation. Title, preliminary matter, and chapter 6 downloads were checked.
+- Official viva notice corroborating the title and supervisor: https://update.iitbhu.ac.in/postings_academic_details/142
+- Official 2025 convocation proceedings confirm the degree award year as 2024: https://iitbhu.ac.in/contents/institute/academics/convocations/doc/convo-proceedings_2025.pdf (PDF p. 23 / printed p. 20)
+
+The website uses the title page's “Inhomogeneous” and submission year 2024, rather than the catalogue's inconsistent “homogeneous” title and issued-year value of 2026. It links to the permanent repository record, not a guessed handle or copied thesis PDF. The doctoral thesis is separated from the numbered papers/preprints list and does not change its count. The existing author-supplied PhD timeline is unchanged; a scheduled viva date is not treated as an award date.

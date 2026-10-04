@@ -8,7 +8,7 @@ A lightweight, responsive personal website for GitHub Pages. Plain HTML, CSS, an
 - `research.html`: research themes, video, credited publication figures
 - `publications.html`: selected verified journal articles, a review/feature article, and separately labelled preprints
 - `conferences.html`: selected meetings, schools, and a poster, with official source and photograph links
-- `resume.html`: appointment, education, skills, publications, and selected workshop travel support, with a print/save-as-PDF control
+- `resume.html`: appointment, education, skills, publications, and selected conferences and workshop travel support, with a print/save-as-PDF control
 
 ## Preview locally
 

@@ -68,3 +68,10 @@ The travel-support acknowledgement is based on the author's confirmation. A spec
 - The page links to the organizer's photograph gallery. The photographs are not reproduced: the policy requires permission for reproduction.
 - Author-selected Isaac Newton Institute photograph link: https://www.newton.ac.uk/event/adiw04/#coverimage-2
 - The Newton photo is linked, not reproduced. Its exact image and reuse terms could not be checked because the event page returned a 403 access response during verification.
+
+## Added 2025 Singapore conferences
+
+The author explicitly confirmed attendance at both events after reviewing their exact names and dates. No presentation role is asserted. These entries were confirmed directly by the author, not extracted from an updated CV.
+
+- *MBI–MPG Conference 2025: Mechanobiology in Time and Space*, 9–12 September 2025, Shaw Foundation Alumni House, National University of Singapore, Singapore. Official event details: https://www.mbi.nus.edu.sg/events/mbiconf2025/ . The conference dates exclude the preceding welcome reception.
+- *Global Conference on Gerophysics*, 5–6 March 2025, Paradox Singapore Merchant Court, Singapore. Official event page: https://medicine.nus.edu.sg/trp/healthy-longevity/events/global-conference-on-gerophysics/ ; official date/venue listing: https://coe.nuhs.edu.sg/centre-for-healthy-longevity/events .

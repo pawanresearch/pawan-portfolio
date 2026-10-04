@@ -42,3 +42,7 @@ nav a[aria-current=page]::after{transform:scaleX(1)}nav a:last-child{margin-left
 @media(max-width:800px){.resume-meeting{margin-left:0}}
 @media(max-width:600px){.conference-item .conference-support{font-size:11px;padding:11px 13px}.resume-meeting h3{font-size:24px}.resume-meeting p{font-size:11px}}
 @media print{.resume-meetings{break-inside:avoid}.resume-meeting{margin-left:0}.resume-meeting h3{font-size:11pt;margin-bottom:2mm}.resume-meeting p{font-size:8pt;margin:1.5mm 0;line-height:1.5}.resume-meeting .text-link{display:none}.conference-item .conference-support{font-size:8pt;padding:2mm}}
+
+/* Keep selected meeting entries distinct in the CV. */
+.resume-meeting+.resume-meeting{border-top:1px solid var(--line);margin-top:28px;padding-top:28px}
+@media print{.resume-meetings{break-inside:auto}.resume-meeting{break-inside:avoid}.resume-meeting+.resume-meeting{margin-top:3mm;padding-top:3mm}}

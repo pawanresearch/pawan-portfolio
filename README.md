@@ -12,7 +12,7 @@ A lightweight, responsive personal website for GitHub Pages. Plain HTML, CSS, an
 
 ## Preview locally
 
-Open `index.html` in a browser, or run `python3 -m http.server 8000` from this directory and open the address printed by Python. Navigation and content work without JavaScript. JavaScript enables printing and updates the copyright year.
+Open `index.html` in a browser, or run `python3 -m http.server 8000` from this directory and open the address printed by Python. Navigation and content work without JavaScript. External web links open in a new tab with an accessible announcement; internal navigation and email links keep their normal behavior. JavaScript enables printing and updates the copyright year.
 
 ## GitHub Pages
 

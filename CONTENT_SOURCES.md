@@ -38,3 +38,13 @@ Journal metadata (titles, authors, year, volume, issue, article number/pages) wa
 - Bangalore School on Statistical Physics XI: https://www.icts.res.in/program/bssp2020 ; participant record https://www.icts.res.in/event/page/20021
 
 The Active Matter and Beyond organizer lists 6–10 November 2023; the institutional report lists 6–12 November. The website uses the organizer’s event dates. Workshop participation is not described as an invited talk or oral presentation.
+
+## Added 2026 bioRxiv preprint
+
+- DOI supplied by the author: https://doi.org/10.64898/2026.03.23.713577
+- Latest version: https://www.biorxiv.org/content/10.64898/2026.03.23.713577v2
+- Primary metadata: https://api.biorxiv.org/details/biorxiv/10.64898/2026.03.23.713577
+- Full author metadata and matching Pawan ORCID: https://api.crossref.org/works/10.64898/2026.03.23.713577
+- Lab listing: https://sites.google.com/view/hirashima-group/publications
+
+The expanded version-2 title and nine-author list are used. First posted 25 March 2026; version 2 posted 22 September 2026. It is labelled a preprint, not a journal article. No linked journal publication was found in the bioRxiv or Crossref metadata. Crossref's accepted-date field is not presented as journal acceptance.

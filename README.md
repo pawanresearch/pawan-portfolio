@@ -2,6 +2,12 @@
 
 A lightweight, responsive personal website for GitHub Pages. Plain HTML, CSS, and a small progressive-enhancement script; no framework, analytics, external fonts, or build service.
 
+## Editing and publishing
+
+**[Read the step-by-step editing guide](EDITING_GUIDE.md)** for text and link edits, adding papers/conferences, uploading media, checking publication, and safely undoing mistakes.
+
+Live website: https://pawanresearch.github.io/pawan-portfolio/
+
 ## Pages
 
 - `index.html`: introduction, research overview, movie preview, and academic background
@@ -16,16 +22,9 @@ Open `index.html` in a browser, or run `python3 -m http.server 8000` from this d
 
 ## GitHub Pages
 
-This draft is intended for a fresh public repository named `pawan-portfolio` under `pawanresearch`. It does not change the existing `resume` repository.
+This public repository is `pawanresearch/pawan-portfolio`. GitHub Pages deploys from `main`, `/ (root)`. Committing changes to `main` republishes the site automatically. Check the latest **pages build and deployment** run in the repository's **Actions** tab, then verify the live page.
 
-After approving the content and design:
-
-1. Commit these files at the root of the new repository.
-2. In repository Settings → Pages, choose “Deploy from a branch”.
-3. Select `main` and `/ (root)` and save.
-4. Wait for the Pages deployment to finish, then check all five pages and video playback at the published URL.
-
-If the repository name changes, update each page’s canonical URL and `og:url`.
+The separate older `resume` repository is not used to publish this site. If the repository name changes, update each page's canonical URL and `og:url`.
 
 ## Updates
 
@@ -41,4 +40,4 @@ The page provides a visual description only; model parameters and an exact scien
 
 ## Verification
 
-The draft includes local file/anchor checks, HTML structure checks, JavaScript syntax and print-state tests, media metadata checks, and source verification. These are not a substitute for final browser checks on the deployed site. See the separate review note for the exact visual verification status.
+Before committing, check factual sources, HTML/link changes, and any media replacements. After publication, test the affected pages and external links, inspect a narrow/mobile layout, and check video or print preview when relevant. The editing guide includes the full checklist.

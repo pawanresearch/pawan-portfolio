@@ -29,3 +29,6 @@ nav a[aria-current=page]::after{transform:scaleX(1)}nav a:last-child{margin-left
 @media(max-width:600px){.header-inner{grid-template-columns:1fr;gap:3px}.header-inner nav{justify-content:space-between}.particle-field{height:calc(100% - 80px)}.research-art figcaption{min-height:80px;align-items:center}.publications-callout,.wide-figure figcaption{display:block}.home-film h2 br{display:inline}.home-film h2 br::after{content:' '}}
 @media print{.site-header,.research-art{display:none!important}.publications-callout{display:flex}}
 @media(max-width:360px){.header-inner nav{flex-wrap:wrap;column-gap:14px;row-gap:0;justify-content:flex-start}.hero-actions{gap:7px}.button{padding-inline:12px}.art-caption-note{font-size:7px}.research-art figcaption>span:first-child{font-size:19px}.contact-profiles{gap:18px}.footer-inner{flex-wrap:wrap;padding-block:14px;gap:9px}}
+
+/* SVG arrows avoid reliance on platform-specific symbol fonts. */
+.inline-arrow{display:inline-block;width:1.15em;height:1.15em;vertical-align:-.18em;flex-shrink:0}.button .inline-arrow{width:1.3em;height:1.3em}

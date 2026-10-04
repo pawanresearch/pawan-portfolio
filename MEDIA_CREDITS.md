@@ -32,3 +32,12 @@
 ## Conceptual artwork
 
 The homepage particle-field illustration is original conceptual artwork for this design. It illustrates a research theme and is labelled as an illustrative field, not simulation results or experimental data.
+
+## Conference photograph links
+
+The Conferences page links to the organizers' original photograph pages. No conference photographs have been copied into this repository.
+
+- *Active Matter and Beyond*, ICTS, Bengaluru, 6–10 November 2023: https://www.icts.res.in/discussion-meeting/amab2023/gallery
+- *Anti-Diffusion in Multiphase and Active Flows*, Isaac Newton Institute, Cambridge, 10–14 June 2024: https://www.newton.ac.uk/event/adiw04/#coverimage-2
+
+ICTS requires permission for reproduction (https://www.icts.res.in/website-policy); the author chose an official gallery link. The Newton photograph link was selected by the author; access limitations prevented independent inspection of that image or its reuse terms.

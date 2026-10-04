@@ -48,3 +48,23 @@ The Active Matter and Beyond organizer lists 6–10 November 2023; the instituti
 - Lab listing: https://sites.google.com/view/hirashima-group/publications
 
 The expanded version-2 title and nine-author list are used. First posted 25 March 2026; version 2 posted 22 September 2026. It is labelled a preprint, not a journal article. No linked journal publication was found in the bioRxiv or Crossref metadata. Crossref's accepted-date field is not presented as journal acceptance.
+
+## June 2024 Cambridge workshop and travel support
+
+- Workshop: *Anti-Diffusion in Multiphase and Active Flows* (ADIW04), 10–14 June 2024, Isaac Newton Institute for Mathematical Sciences, Cambridge, United Kingdom
+- Organizer page: https://www.newton.ac.uk/event/adiw04/
+- University research-group event listing corroborating the dates and venue: https://www.theorie.physik.lmu.de/lsfrey/conferences/index.html
+- Cambridge's official talk archive corroborating the workshop name and venue: https://talks.cam.ac.uk/talk/index/214690
+- Pawan Kumar Mishra confirmed his participation and SERB travel support for this workshop. The website records participation, without asserting an invited talk or other presentation role.
+- Official SERB organizational source: https://www.serb.gov.in/index.php/page/board_committee_organisation_structure
+- Official travel-support scheme information: https://www.serb.gov.in/page/english/research_grants
+
+The travel-support acknowledgement is based on the author's confirmation. A specific scheme name, grant identifier, award amount, and private award documents are not published.
+
+## Conference photographs
+
+- Author-selected ICTS group photographs: https://www.icts.res.in/discussion-meeting/amab2023/gallery
+- ICTS website policy: https://www.icts.res.in/website-policy
+- The page links to the organizer's photograph gallery. The photographs are not reproduced: the policy requires permission for reproduction.
+- Author-selected Isaac Newton Institute photograph link: https://www.newton.ac.uk/event/adiw04/#coverimage-2
+- The Newton photo is linked, not reproduced. Its exact image and reuse terms could not be checked because the event page returned a 403 access response during verification.
